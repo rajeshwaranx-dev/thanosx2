@@ -144,7 +144,7 @@ class script(object):
 
 <b>‣ ꜱɪᴢᴇ : </b>{file_size}
 
-<b>🍁 ʙʏ : <a href="https://telegram.me/Thanos_linkz">[ Thanks Linkz ]</a></b>"""
+<b>🍁 ʙʏ : <a href="https://telegram.me/Thanos_linkz">[ Thanos Linkz ]</a></b>"""
 
     IMDB_TEMPLATE_TXT = """<b><a href={url}>{title} (<a href={url}/releaseinfo>{year}</a>)
 
